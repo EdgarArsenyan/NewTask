@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New Task</string>
+    <string name="user_name">Michelle Reed</string>
+    <string name="about_me">Model living in Los Angeles. Follow me
+        for premium content and join me on all my adventures!</string>
+    <string name="edit_button">EDIT PROFILE</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+</resources>
